@@ -3,8 +3,6 @@ layout: page
 title: Programme
 ---
 
-## Programme
-
 Planning provisoire :
 
 | Heure         | Événement                                                              |
