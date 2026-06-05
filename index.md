@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OuestMR
-subtitle: Bienvenue sur le site officiel du workshop OuestMR
+subtitle: Bienvenue sur le site du workshop OuestMR
 ---
 
 Bienvenue sur le site de **OuestMR**, le workshop dédié aux jeunes chercheurs en Résonance Magnétique dans le Nord-Ouest.
