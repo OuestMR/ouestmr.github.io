@@ -12,7 +12,7 @@
 # Name of website
 title: Ouest MR
 # Your name to show in the footer
-author: Workshop Organizers
+author: Equipe OuestMR
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -137,14 +137,14 @@ navbar-var-length: true
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#009cb2"           # Primary (Teal)
-hover-col: "#df007f"          # Secondary (Magenta)
-navbar-col: "#522584"         # Third (Purple) - Navbar background
+hover-col: "#522584"          # Secondary (Magenta)
+navbar-col: "#df007f"         # Third (Purple) - Navbar background
 navbar-text-col: "#FFFFFF"    # White text to contrast with the purple navbar
 navbar-border-col: "#522584"  # Matches the navbar background
 footer-col: "#EAEAEA"         # Kept light grey so it doesn't overwhelm the page
 footer-text-col: "#777777"
 footer-link-col: "#009cb2"    # Primary (Teal)
-footer-hover-col: "#df007f"   # Secondary (Magenta)
+footer-hover-col: "#522584"   # Secondary (Magenta)
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
