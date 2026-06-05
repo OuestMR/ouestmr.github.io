@@ -5,7 +5,9 @@ permalink: /organizers/
 ---
 
 ## List of the organizing committee members.
-
+<div style="text-align: center; margin-top: -20px; margin-bottom: 40px;">
+  <img src="/assets/img/logo-ouestmr.svg" alt="Logo OuestMR" style="width: 250px; max-width: 100%;">
+</div>
 <div style="display:flex; gap:20px;">
 
   <img src="/assets/img/CaroleBrunaud.jpg" 
