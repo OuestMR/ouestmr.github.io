@@ -20,13 +20,15 @@ Le workshop se tiendra le **jeudi 19 novembre 2026** au **Centre de conférence 
 
 Créé par et pour les jeunes chercheurs (doctorants, post-doctorants, ingénieurs), ce workshop multidisciplinaire a pour objectif de se réunir autour du domaine des technologies pour la santé. Les chercheurs seniors intéressés sont également les bienvenus !
 
-La journée sera rythmée par des présentations d'invités (Keynotes), des sessions posters, ainsi que des présentations rapides pour les résumés sélectionnés. Ce sera l'occasion d'échanger autour des thématiques suivantes :
+La journée sera rythmée par des **présentations d'invités**, une **session posters**, ainsi que des **présentations courtes** pour les résumés sélectionnés. Ce sera l'occasion d'échanger autour des thématiques suivantes :
 
 * **Traitement :** Intelligence Artificielle, statistiques, débruitage, reconstruction.
 * **Acquisition :** Physique IRM, In vivo - In vitro.
 * **Champs d'application :** Pré-clinique et clinique.
 * **Spectrométrie RM (SRM).**
 * **Partage de méthodologies et de toolboxes.**
+* **Carrière**
+* **Conseils pratiques en doctorat**
 
 <br>
 
