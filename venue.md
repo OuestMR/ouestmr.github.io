@@ -18,11 +18,7 @@ permalink: /venue/
 ## Comment venir au Centre Inria de l'Université de Rennes ?
 
 ### 🚗 En voiture
-* **Adresse pour GPS :** Campus de Beaulieu, 263 Avenue Général Leclerc, 35042 Rennes.
-
-### ✈️ Depuis l’aéroport Rennes Saint-Jacques
-* **En transports en commun :** Prendre la ligne de bus **C6** (direction *Cesson-Sévigné Rigourdière*) et descendre à l'arrêt **Tournebride**.
-* **En taxi :** Des stations de taxi sont disponibles directement à la sortie de l'aéroport.
+* **Adresse pour GPS :** Campus de Beaulieu, 263 Avenue Général Leclerc, 35042 Rennes. [48.116529,-1.639634](https://maps.app.goo.gl/BKU7HU2Ue4QANe4H7)
 
 ### 🚄 En train (depuis la Gare de Rennes)
 * **Option 1 (Métro direct) :** Prendre la ligne de métro **B** (direction *Cesson-Viasilva*), descendre à l'arrêt **Beaulieu Université**, puis marcher environ 13 min vers le campus Sud.
