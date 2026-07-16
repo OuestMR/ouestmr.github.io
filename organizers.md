@@ -14,7 +14,7 @@ permalink: /organizers/
 
   <!-- Grouped Image and Text together -->
   <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/CaroleBrunaud.jpeg" 
+    <img src="/assets/img/CaroleBrunaud.jpg" 
       width="200"
       height="200"
       style="border-radius:50%; object-fit:cover; max-width:100%; height:auto; aspect-ratio: 1/1;">
