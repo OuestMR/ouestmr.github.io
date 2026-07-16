@@ -1,45 +1,32 @@
 ---
 layout: page
-title: Venue
+title: Lieu
 permalink: /venue/
 ---
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; width: 66%; text-align: justify; padding: 8px; vertical-align: top;">
-      Le workshop OuestMR 2026 aura lieu au Centre de conférence de l'INRIA à Rennes (35, Bretagne), au sein de l'Université de Rennes.
-    </td>
-    <td style="border: none; width: 34%; padding: 8px; vertical-align: top;">
-      <img src="/assets/img/Photo-INRIA.png" alt="Centre de conférence de l'INRIA" style="max-width: 100%; height: auto; display: block;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-bottom: 30px;">
+  <div style="flex: 1 1 60%; text-align: justify;">
+    Le workshop <strong>OuestMR 2026</strong> aura lieu au <strong>Centre de conférence de l'INRIA</strong> à Rennes (35, Bretagne), au sein du campus de l'Université de Rennes.
+  </div>
+  <div style="flex: 1 1 35%;">
+    <img src="/assets/img/Photo-INRIA.png" alt="Centre de conférence de l'INRIA" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
 
-**Comment venir au Centre Inria de l'Université de Rennes ?**
+---
 
-🚗 *en voiture :*  
-Adresse à renseigner sur votre système de navigation :  
-Campus de Beaulieu, 263 Avenue Général Leclerc, 35042 Rennes    
+## Comment venir au Centre Inria de l'Université de Rennes ?
 
-✈️ *depuis l’aéroport Rennes Saint-Jacques :*  
-- via les transports en commun :&nbsp;&nbsp;   
-Prendre la ligne de bus C6 direction « Cesson-Sévigné Rigourdière ».&nbsp;&nbsp;&nbsp;&nbsp;  
-Descendre à l'arrêt «Tournebride ».&nbsp;&nbsp;&nbsp;&nbsp;  
-- via un taxi&nbsp;&nbsp;
+### 🚗 En voiture
+* **Adresse pour GPS :** Campus de Beaulieu, 263 Avenue Général Leclerc, 35042 Rennes. [48.116529,-1.639634](https://maps.app.goo.gl/BKU7HU2Ue4QANe4H7)
 
-🚄 *en train :*  
-- via les transports en commun :&nbsp;&nbsp;  
-Accès direct depuis la gare via la ligne B du métro en direction Cesson-Via Silva&nbsp;&nbsp;&nbsp;&nbsp;  
-Descendre à l'arrêt « Beaulieu Université » puis marcher environ 13mn vers le campus Sud&nbsp;&nbsp;&nbsp;&nbsp;  
-ou&nbsp;&nbsp;&nbsp;&nbsp;  
-Prendre le Métro a à la station Gares (Rennes) en direction de J.F. Kennedy (Rennes) et descendre à la station « République »&nbsp;&nbsp;&nbsp;&nbsp;  
-A la station République, prendre la ligne C4 en direction de ZA Saint-Sulpice ou la ligne C6 vers Cesson Sévigné/Chantepie et descendre à l’arrêt « Tournebride »&nbsp;&nbsp;&nbsp;&nbsp;  
-- via un taxi&nbsp;&nbsp;  
+### 🚄 En train (depuis la Gare de Rennes)
+* **Option 1 (Métro direct) :** Prendre la ligne de métro **B** (direction *Cesson-Viasilva*), descendre à l'arrêt **Beaulieu Université**, puis marcher environ 13 min vers le campus Sud.
+* **Option 2 (Métro + Bus) :** Prendre la ligne de métro **a** (direction *J.F. Kennedy*) et descendre à la station **République**. Prendre ensuite la ligne de bus **C4** (direction *ZA Saint-Sulpice*) ou **C6** (direction *Cesson Sévigné/Chantepie*) et descendre à l’arrêt **Tournebride**.
+* **En taxi :** Des taxis sont disponibles aux sorties Gare Nord et Gare Sud.
 
-🚌 *en transport en commun :*  
-Arrêt « Tournebride » desservi par les lignes de bus C4, C6, 40 et 41ex  
-Arrêt « Beaulieu Université » desservi par la ligne de métro B, puis 13mins de marche direction campus Sud  
---> possibilité de valider son titre de transport à la montée des bus avec la carte bancaire.
+### 🚌 En transports en commun (Réseau STAR)
+* **Arrêt Tournebride :** Desservi par les lignes de bus **C4, C6, 40 et 41ex**.
+* **Arrêt Beaulieu Université :** Desservi par la ligne de métro **B** (suivi de 13 min de marche direction campus Sud).
 
-
-
+> **Astuce :** Vous avez la possibilité de valider votre titre de transport directement à la montée dans les bus avec votre carte bancaire !

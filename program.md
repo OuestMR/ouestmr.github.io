@@ -1,26 +1,18 @@
 ---
 layout: page
-title: Program
+title: Programme
 ---
-
-## Schedule
 
 Planning provisoire :
 
-| Time          | Event                                        |
-| ------------- | -------------------------------------------- |
-| 08:45 – 09:00 | Welcome & Opening                            |
-| 09:00 – 10:00 | Invited Talk: Invited Speaker - *Talk Title* |
-| 10:00 – 10:30 | Selected Poster Presentations 1 & 2          |
-| 10:30 – 11:00 | Coffee Break                                 |
-| 11:00 – 12:00 | Invited Talk: Invited Speaker - *Talk Title* |
-| 12:00 – 12:30 | Selected Poster Presentations 3 & 4          |
-| 12:30 – 14:00 | Lunch Break                                  |
-| 14:00 – 15:00 | Invited Talk: Invited Speaker - *Talk Title* |
-| 15:00 – 15:30 | Selected Poster Presentations 5 & 6          |
-| 15:30 – 16:30 | Coffee Break & Poster session                |
-| 16:30 - 17:00 | Future Perspectives and Closing              |
-| 17:00 - 21:00 | Apéro/Manger/Danser (FYNIS ?)                |
-
-### Idée invités : 
-
+| Heure         | Événement                                                              |
+| ------------- | ---------------------------------------------------------------------- |
+| 09:30 – 10:00 | Accueil & Ouverture                                                    |
+| 10:00 – 11:00 | Présentation invitée : Intervenant invité                              |
+| 11:00 – 12:00 | Présentations de posters sélectionnées 1, 2 & 3                        |
+| 12:00 – 14:00 | Pause déjeuner                                                         |
+| 14:00 – 15:00 | Présentation invitée : Intervenant invité                              |
+| 15:00 – 16:00 | Présentations de posters sélectionnés 4 & 5 & 6                        |
+| 16:00 – 17:00 | Pause café & Session posters                                           |
+| 17:00 - 17:30 | Perspectives futures et Clôture                                        |
+| 18:00 - 21:00 | Soirée conviviale                                                      |
