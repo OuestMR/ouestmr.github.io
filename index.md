@@ -4,7 +4,7 @@ title: OuestMR
 subtitle: Bienvenue sur le site du workshop OuestMR
 ---
 
-Bienvenue sur le site de **OuestMR**, le workshop dédié aux jeunes chercheurs en Résonance Magnétique dans le Nord-Ouest.
+Bienvenue sur le site de **OuestMR**, le workshop multidisciplinaire dédié aux jeunes chercheurs en lien avec la Résonance Magnétique dans le Nord-Ouest.
 
 Le workshop se tiendra le **jeudi 19 novembre 2026** au **Centre de conférence INRIA à Rennes**. Afin de faciliter la venue de tous, la journée débutera vers 10h00 et se clôturera par un dîner convivial.
 
@@ -18,7 +18,7 @@ Le workshop se tiendra le **jeudi 19 novembre 2026** au **Centre de conférence 
 
 ### À propos du Workshop
 
-Créé par et pour les jeunes chercheurs (doctorants, post-doctorants, ingénieurs), ce workshop multidisciplinaire a pour objectif de se réunir autour du domaine l'imagerie médicale. Les chercheurs seniors intéressés sont également les bienvenus !
+Créé par et pour les jeunes chercheurs (doctorants, post-doctorants, ingénieurs), ce workshop multidisciplinaire a pour objectif de se réunir autour du domaine l'imagerie par résonance magnétique. Les chercheurs seniors intéressés sont également les bienvenus !
 
 La journée sera rythmée par des **présentations d'invités**, une **session posters**, ainsi que des **présentations courtes** pour les résumés sélectionnés. Ce sera l'occasion d'échanger autour des thématiques suivantes :
 
