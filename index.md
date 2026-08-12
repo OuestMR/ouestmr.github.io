@@ -25,8 +25,8 @@ La journée sera rythmée par des **présentations d'invités**, une **session p
 * **Acquisition :** Physique IRM, *In vitro* - *In vivo*.
 * **Traitement :** Intelligence Artificielle, statistiques, débruitage, reconstruction.
 * **Champs d'application :** Pré-clinique et clinique.
-* **Spectrométrie RM (SRM).**
-* **Partage de méthodologies et de toolboxes.**
+* **Spectrométrie RM (SRM)**
+* **Partage de méthodologies et de toolboxes**
 * **Carrière**
 * **Conseils pratiques en doctorat**
 
